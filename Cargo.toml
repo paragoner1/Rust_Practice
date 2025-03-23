@@ -12,7 +12,7 @@ members = [
     "lets_get_rusty/variables",
     "lets_get_rusty/data_types",
     "lets_get_rusty/functions"
-]
+, "lets_get_rusty/control_flow"]
 exclude = [
 "rustlings/rustlings-exercises/rustlings"
 ]
