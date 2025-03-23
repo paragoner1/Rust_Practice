@@ -1,14 +1,18 @@
 [workspace]
+resolver = "3"
 members = [
-    "lets_get_rusty/branches",
-    "lets_get_rusty/guessing_game",
-    "lets_get_rusty/robot_practice",
+    "lets_get_rusty/guessing_game", 
     "lets_get_rusty/text_processor",
-    "lets_get_rusty/variables",
     "lets_get_rusty/error_handling",
     "rust_book/hello_cargo",
     "rust_book/hello_rust",
     "rust_book/hello_world",
     "rust_book/loops",
-    "rust_book/rectangles"
+    "rust_book/rectangles",
+    "lets_get_rusty/variables",
+    "lets_get_rusty/data_types",
+    "lets_get_rusty/functions"
+]
+exclude = [
+"rustlings/rustlings-exercises/rustlings"
 ]
