@@ -23,18 +23,18 @@
     ],
     "settings": {
         "rust-analyzer.linkedProjects": [
-            "/Users/ryanomeara/projects/Rust_Practice/lets_get_rusty/guessing_game/Cargo.toml",
-            "/Users/ryanomeara/projects/hello_cargo/Cargo.toml",
-            "/Users/ryanomeara/projects/hello_world/Cargo.toml",
-            "/Users/ryanomeara/projects/loops/Cargo.toml",
-            "/Users/ryanomeara/projects/rectangles/Cargo.toml"
+            "~/projects/Rust_Practice/lets_get_rusty/guessing_game/Cargo.toml",
+            "~/projects/hello_cargo/Cargo.toml",
+            "~/projects/hello_world/Cargo.toml",
+            "~/projects/loops/Cargo.toml",
+            "~/projects/rectangles/Cargo.toml"
         ],
         "files.exclude": {
             "**/target": true,
             "**/Cargo.lock": true,
             "projects.code-workspace": true
         },
-        "terminal.integrated.cwd": "/Users/ryanomeara/projects",
+        "terminal.integrated.cwd": "~/projects",
         "terminal.integrated.defaultLocation": "editor"
     }
 }
